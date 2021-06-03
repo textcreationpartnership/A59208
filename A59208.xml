@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sentence of Nathaniel Thompson, VVilliam Pain, and John Farewel who received judgment at the Kings-Bench, Westminster, on the third of this instant July, as haveing been cast at Guild-Hall for writing, printing and publishing the letters &amp; libels purporting that Sir Edmundbury-Godfrey murthered himself.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59208</idno><idno type="EEBO-CITATION">16412069</idno>
+  <idno type="VID">105368</idno>
+  <idno type="EEBO-PROQUEST">2240863489</idno>
+  
+            <idno type="STC">Wing S2554</idno>
+            <idno type="STC">ESTC R37365</idno>
+            <idno type="OCLC">16412069</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sentence of Nathaniel Thompson, VVilliam Pain, and John Farewel who received judgment at the Kings-Bench, Westminster, on the third of this instant July, as haveing been cast at Guild-Hall for writing, printing and publishing the letters &amp; libels purporting that Sir Edmundbury-Godfrey murthered himself.</title>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Heathcott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Thompson, Nathaniel, d. 1687.</term>
+               <term type="personal_name">Paine, William.</term>
+               <term type="personal_name">Farwell, John.</term>
+               <term type="personal_name">Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="court_proceedings">
+            <pb facs="tcp:105368:1"/>
+            <pb facs="tcp:105368:1"/>
+            <head>THE SENTENCE OF <hi>Nathaniel Thompson,</hi> VVilliam Pain <hi>and</hi> John Farewel, Who Received Judgment at the Kings-Bench, <hi>Westminster;</hi> On the Third of this Instant <hi>July:</hi> As haveing been Cast at <hi>Guild-Hall,</hi> for <hi>Writing, Printing,</hi> and <hi>Publishing</hi> The Letters &amp; Libels, PURPORTING, That Sir Edmundbury-Godfrey MURTHERED <hi>HIMSELF.</hi>
+            </head>
+            <p>A Rule of Court having been serv'd on the Marshal of the <hi>Kings-Bench,</hi> to bring the Bodies of <hi>Nathaniel Thompson, John Farewel</hi> and <hi>Willi<g ref="char:EOLhyphen"/>am Pain,</hi> into the Court of <hi>Kings-Bench,</hi> it was done according<g ref="char:EOLhyphen"/>ly; when as Mr. <hi>Attorney</hi> pray'd Judgment against them, upon their late Conviction, which being Granted, Mr. <hi>Thompson</hi> the Counsellour mov<g ref="char:EOLhyphen"/>ed in the behalf of the King, that the Prisoner might have Corporal punish<g ref="char:EOLhyphen"/>ment, and layed open the heinousness of the Fact, how that by Printing and Dispersing those Libells Intitled Letters to Mr. <hi>Prance,</hi> about the Murther
+<pb n="2" facs="tcp:105368:2"/> of Sir <hi>Edmundbury-Godfrey,</hi> they had Arraigned the Justice of the Nation in a high manner, by going about to make people believe, That <hi>Green, Berry</hi> and <hi>Hill,</hi> lately Executed for the Murther of that worthy Gentleman dyed wrongfully, and that they were so far from being sorry for what they had done, that Mr. <hi>Thompson,</hi> since his Conviction, had published in one of his <hi>Intelligences,</hi> That he had done nothing whereof he need be asham'd, where<g ref="char:EOLhyphen"/>upon that and another <hi>Intelligence</hi> were produc'd, and a Paragraph of each of them read, importing to self-Justification; to which, Mr. <hi>Thompson</hi> pleaded Ig<g ref="char:EOLhyphen"/>norance, <hi>saying,</hi> They were Printed without his Knowledge; and as for the Two Letters, he said, That he received them upon the credit of Mr. <hi>Pain</hi> and Mr. <hi>Farewel,</hi> who were his Neighbours, and that he intended no hurt thereby. To which my <hi>Lord Chief Justice</hi> replyed, That he had done insuf<g ref="char:EOLhyphen"/>ferable Mischief by Arraigning the Justice of the Nation, thereby to make Forreigners believe that the persons Executed for the Murther dyed fault<g ref="char:EOLhyphen"/>less; and that such Papers being dispersed into all Countries, might induce sever<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to believe there was no <hi>Popish-Plot,</hi> but that the <hi>Protestants</hi> out of Envy to the <hi>Papists,</hi> had put it upon them, and therefore such things ought not to be suffered; and that as for <hi>Farewel,</hi> upon his Tryal, he seemed ra<g ref="char:EOLhyphen"/>ther to go about to prove it self-Murther than to express hims<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf sorry for what he had done, although all the Witnesses he called gave Evidence That they believed Sir <hi>Edmundbury-Godfrey</hi> was Murthered; and so His Lordship proceeded to repeat many particulars that were given in Evi<g ref="char:EOLhyphen"/>dence upon the Tryal. Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Mr. <hi>Pain</hi>'s Council moved that he had shew<g ref="char:EOLhyphen"/>ed great sorrow, and that what he had done was by Inadvertency, he hav<g ref="char:EOLhyphen"/>ing been drawn into that Premunire; many Affidavits were likewise pro<g ref="char:EOLhyphen"/>duced in Court to <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Murther was in all likelihood done at <hi>Sum<g ref="char:EOLhyphen"/>merset-House.</hi>
+            </p>
+            <p>So that in fine, Mr. Justice <hi>Jones</hi> (after he had declared the heinious<g ref="char:EOLhyphen"/>ness of the Fact) proceeded to give Judgement; which was, That <hi>Natha<g ref="char:EOLhyphen"/>niel Thompson, John Farewel,</hi> and <hi>William Pain,</hi> having been Convicted of Trespass and Misdemeanor, the judgement of the Court was, That the two first, <hi>Viz. Thompson</hi> and <hi>Farewel</hi> should stand upon the <hi>Pillory</hi> in the <hi>Pallace-Yard,</hi> on <hi>Wednesday</hi> next, between the Hours of Ten and One, by the space of one hour, and to pay One Hundred Pounds each to the King, and to con<g ref="char:EOLhyphen"/>tinue in Prison till it be paid; and as for <hi>Pain,</hi> by reason of his Submission, he was onely Fined the summ of One Hundred Pounds, and to be Imprison<g ref="char:EOLhyphen"/>ed till the payment thereof; whereupon they were all remanded to the <hi>Kings-Bench.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Heathcott,</hi> 1682▪</p>
+         </div>
+      </back>
+   </text>
+</TEI>
